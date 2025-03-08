@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wumpus World</string>
+    <string name="start">START</string>
+    <string name="settings">SETTINGS</string>
+    <string name="exit">EXIT</string>
+    <string name="wumpus_alive">Wumpus is still alive!</string>
+    <string name="move">MOVE</string>
+    <string name="hit_wall">You hit the wall!</string>
+    <string name="wumpus_encounter">Wumpus Caught You! Level Failed</string>
+</resources>
